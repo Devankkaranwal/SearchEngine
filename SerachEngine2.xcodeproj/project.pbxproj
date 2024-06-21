@@ -16,6 +16,7 @@
 		13817AC02C259A5200EE40FF /* SerachEngine2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13817ABF2C259A5200EE40FF /* SerachEngine2Tests.swift */; };
 		13817ACA2C259A5200EE40FF /* SerachEngine2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13817AC92C259A5200EE40FF /* SerachEngine2UITests.swift */; };
 		13817ACC2C259A5200EE40FF /* SerachEngine2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13817ACB2C259A5200EE40FF /* SerachEngine2UITestsLaunchTests.swift */; };
+		13817AD92C259AD100EE40FF /* SearchAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13817AD82C259AD100EE40FF /* SearchAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		13817AC52C259A5200EE40FF /* SerachEngine2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SerachEngine2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13817AC92C259A5200EE40FF /* SerachEngine2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerachEngine2UITests.swift; sourceTree = "<group>"; };
 		13817ACB2C259A5200EE40FF /* SerachEngine2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SerachEngine2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		13817AD82C259AD100EE40FF /* SearchAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				13817AA82C259A4B00EE40FF /* AppDelegate.swift */,
 				13817AAA2C259A4B00EE40FF /* SceneDelegate.swift */,
 				13817AAC2C259A4B00EE40FF /* ViewController.swift */,
+				13817AD82C259AD100EE40FF /* SearchAPI.swift */,
 				13817AAE2C259A4B00EE40FF /* Main.storyboard */,
 				13817AB12C259A5100EE40FF /* Assets.xcassets */,
 				13817AB32C259A5100EE40FF /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				13817AAD2C259A4B00EE40FF /* ViewController.swift in Sources */,
 				13817AA92C259A4B00EE40FF /* AppDelegate.swift in Sources */,
+				13817AD92C259AD100EE40FF /* SearchAPI.swift in Sources */,
 				13817AAB2C259A4B00EE40FF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
